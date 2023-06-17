@@ -1,2 +1,2 @@
 changed
-modified
+this line should be conflict: from branch 1
