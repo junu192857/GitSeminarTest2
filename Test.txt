@@ -1,2 +1,2 @@
 changed
-modified
+this line should be conlict: from branch 2
